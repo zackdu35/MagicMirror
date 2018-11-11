@@ -45,7 +45,7 @@ var config = {
 				calendars: [
 					{
 						symbol: "calendar-check-o ",
-						url: "http://spotmag.free.fr/calendrier/images/Feries-fixes.ics"
+						url: "https://drive.google.com/uc?authuser=0&id=1c1UxaAuEes-k4eAfyLXBhMBDFR9WGEVR&export=download"
 					}
 				]
 			}
